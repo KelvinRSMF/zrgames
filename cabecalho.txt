@@ -1,0 +1,185 @@
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/fontes.css">
+        <script src="js/jquery.js"></script>
+        <script src="js/ancora.js"></script>
+        <script src="js/hideElements.js"></script>
+        <title>
+            1º a 4º Gerações de Consoles
+        </title>
+        <meta charset="utf-8">
+    </head>
+    <body>
+        <div class="cabecalho-menu">
+            <div class="logo-titulo center">
+                <div class="logo-menu">
+                    <img src="img/logomenu.png" class="size-img border-img">
+                </div>
+                <div class="titulo-menu">
+                    <h1><span class="dtq1-titulo">GERACÕES DE</span> <span class="dtq-titulo">CONSOLES</span></h1>
+                </div>
+            </div>
+            <div class="menu">
+                <div class="center-menu center">
+                    <div class="caixa-menu">
+                        <div class="item-menu">
+                            <a class="link" href="geracoes-pg1.html">
+                                <h4 alt="Gerações" title="Gerações">GERAÇÕES</h4>
+                            </a>
+                            <div class="caixa-subitens">
+                                <div class="subitem1-menu">
+                                    <a class="link" href="geracoes-pg1.html">
+                                        <h5 class="subtituloMenu">1ª Página</h5>
+                                    </a>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#first-gen">
+                                            <h6>Primeira Geração</h6>
+                                        </a>
+                                    </div>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#second-gen">
+                                            <h6>Segunda Geração</h6>
+                                        </a>
+                                    </div>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#third-gen">
+                                            <h6>Terceira Geração</h6>
+                                        </a>
+                                    </div>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#fourth-gen">
+                                            <h6>Quarta Geração</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="subitem1-menu">
+                                    <a class="link" href="geracoes-pg2.html">
+                                        <h5 class="subtituloMenu">2ª Página</h5>
+                                    </a>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#fifth-gen">
+                                            <h6>Quita Geração</h6>
+                                        </a>
+                                    </div>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#sixth-gen">
+                                            <h6>Sexta Geração</h6>
+                                        </a>
+                                    </div>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#seventh-gen">
+                                            <h6>Sétima Geração</h6>
+                                        </a>
+                                    </div>
+                                    <div class="subitem-menu">
+                                        <a class="link" href="#eigth-gen">
+                                            <h6>Oitava Geração</h6>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item-menu">
+                            <a class="link" href="classicos.html">
+                                <h4 class="tituloMenu" alt="Clássicos" title="Clássicos">CLÁSSICOS</h4>
+                            </a>
+                            <div class="caixa-subitens2">
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#smw">
+                                        <h6>Super Mario World</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#pm">
+                                        <h6>Pac-Man</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#dk">
+                                        <h6>Donkey Kong Country</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#gtasa">
+                                        <h6>GTA: SA</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#zelda">
+                                        <h6>Zelda</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item-menu">
+                                <a class="link" href="goty.html">
+                                    <h4 class="tituloMenu" alt="Jogos do Ano" title="Jogos do Ano">GOTY's</h4>
+                                </a>
+                            <div class="caixa-subitens2">
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#dragon">
+                                        <h6>Dragon Age</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#wicther">
+                                        <h6>The Witcher</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#over">
+                                        <h6>Overwatch</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#zeldab">
+                                        <h6>Zelda: BOTW</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#rdr">
+                                        <h6>Red Dead Redemption 2</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="item-menu">
+                                <a class="link" href="mais-vendidos.html">
+                                    <h4 class="tituloMenu" alt="Mais Vendidos" title="Mais Vendidos">BEST SELLERS</h4>
+                                </a>
+                            <div class="caixa-subitens2">
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#tetris">
+                                        <h6>Tetris</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#mine">
+                                        <h6>Minecraft</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#gtav">
+                                        <h6>Grand Theft Auto V</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#wii">
+                                        <h6>Wii Sports</h6>
+                                    </a>
+                                </div>
+                                <div class="subitem-menu2">
+                                    <a class="link" href="#smb">
+                                        <h6>Super Mario Bros</h6>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </body>
+</html>
